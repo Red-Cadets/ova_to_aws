@@ -60,4 +60,4 @@ red@cadets:~/$ python3 import-image-to-ec2-aws.py --access_key AKIA4Q7UYUYNQ5QPD
 
 ## Контакты
 
-Наше[комьюнити](https://t.me/redcadets_chat)
+Наше [комьюнити](https://t.me/redcadets_chat)
