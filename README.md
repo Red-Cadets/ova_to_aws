@@ -57,3 +57,7 @@ red@cadets:~/$ python3 import-image-to-ec2-aws.py --access_key AKIA4Q7UYUYNQ5QPD
 
 `instance_type` можно посмореть на [сайте](https://aws.amazon.com/ec2/instance-types/)
 (`t2.micro` является бесплатным, но и производительность посредственная)
+
+## Контакты
+
+Наше комьюнити t.me/redcadets_chat
